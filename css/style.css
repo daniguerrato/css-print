@@ -148,11 +148,11 @@ figure img {
 }
 
 
-.no-print {
+.print {
     display: block;
 }
 
-.print {
+.no-print {
     display: none;
 }
 
